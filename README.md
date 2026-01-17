@@ -46,13 +46,13 @@ Open your browser to the local URL (usually `http://localhost:5173`) to interact
 - [Identity Standards (HCS-1)](https://hol.org/docs/standards/hcs-1)
 - [Universal Agentic Registry](https://hol.org/registry)
 
-## 🏆 Earn HOL Points
+## 🏆 Score HOL Points
 
-Contribute to this repository and earn [HOL Points](https://hol.org/points)! 
+Contribute to this repository and score [HOL Points](https://hol.org/points)! 
 
 - 🔧 **Fix bugs** or improve documentation
 - ✨ **Add new features** or examples
-- 📝 **Submit pull requests** to earn points
+- 📝 **Submit pull requests** to score points
 
 Points can be used across the HOL ecosystem. [Learn more →](https://hol.org/points)
 
